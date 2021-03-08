@@ -1,5 +1,6 @@
 # DEMO-02
 PBR光照实现
+如果需要运行请切换至x86编译， 使用opengl4.6标准编写，如果遇到fail to create GLFW window请检查opengl版本
 ![Image text](https://github.com/decsacety/DEMO-02/blob/main/OpenGL01/source/4.png)
 实现了基于Cook-Torrance BRDF的PBR光照模型，可以通过调整菲涅尔系数freh和粗糙度rough来模拟各种材质
 贴图采用的是帧缓冲写入的模拟实时屏幕映射，用来模拟玻璃的质感。
