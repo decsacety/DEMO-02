@@ -1,0 +1,9 @@
+﻿  opengl.cpp
+Y:\DEMO-02\OpenGL01\Shader.h(4,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+Y:\DEMO-02\OpenGL01\Shader.h(41,40): warning C4101: “e”: 未引用的局部变量
+Y:\DEMO-02\OpenGL01\camera.h(17,23): warning C4305: “初始化”: 从“double”到“float”截断
+Y:\DEMO-02\OpenGL01\model.h(217,27): warning C4018: “<”: 有符号/无符号不匹配
+Y:\DEMO-02\OpenGL01\model.h(221,27): warning C4018: “<”: 有符号/无符号不匹配
+Y:\DEMO-02\OpenGL01\model.h(223,35): warning C4018: “<”: 有符号/无符号不匹配
+Y:\DEMO-02\OpenGL01\opengl.cpp(132,23): warning C4018: “<”: 有符号/无符号不匹配
+  OpenGL01.vcxproj -> Y:\DEMO-02\Debug\OpenGL01.exe
