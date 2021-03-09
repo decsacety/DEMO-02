@@ -1,5 +1,9 @@
 # DEMO-02
-PBR光照实现
+更新后内容：
+添加了另一个副光源，可以自定义多个点光源来模拟全局光照。
+增加了实时调控主光源颜色的控件。
+
+##PBR光照实现##
 如果需要运行请切换至x86编译， 使用opengl4.6标准编写，如果遇到fail to create GLFW window请检查opengl版本
 在场景中wasd移动，鼠标右键加速，x键退出程序。
 ![Image text](https://github.com/decsacety/DEMO-02/blob/main/OpenGL01/source/DemoPicture/4.png)
